@@ -1,0 +1,22 @@
+#haut
+{
+    display: flex;
+    justify-content: flex-end;  
+}
+#searchbar
+{
+    display: flex;
+    justify-content: center;
+}
+#logo
+{
+    display: flex;
+    justify-content: center;
+}
+.bouton
+{
+display: flex;
+justify-content: center;
+background-attachment: fixed;
+}
+
